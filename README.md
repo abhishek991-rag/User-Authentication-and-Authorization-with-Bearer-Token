@@ -1,5 +1,3 @@
-# User-Authentication-and-Authorization-with-Bearer-Token
-<br>
 # Node.js Authentication API
 
 This project implements user authentication and authorization using Bearer tokens.
